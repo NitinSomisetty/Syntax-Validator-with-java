@@ -153,17 +153,11 @@ JavaSyntaxValidator/
 └── requirements.txt            # PLY dependency
 ```
 
-## Author
-
-Assignment: ORANGE LEVEL PROBLEM - AFLL Course  
-PLY Tool Implementation for Java Syntax Validation
-
 ## Course Information
 
 **Course:** UE24CS243A - Automata Formal Languages and Logic  
 **Semester:** III  
-**Assignment Type:** Experiential Learning - Orange Level Problem  
-**Marks:** 3M (Coding) + 3M (Viva) = 6M Total
+
 
 ## Features
 
