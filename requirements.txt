@@ -1,0 +1,10 @@
+ply
+
+
+cd JavaSyntaxValidator; 
+python java_syntax_validator.py test_cases\valid_syntax.java
+
+
+
+cd JavaSyntaxValidator; 
+python java_syntax_validator.py test_cases\invalid_syntax.java
